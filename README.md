@@ -266,32 +266,32 @@ Lihat [issues dengan label "good first issue"](https://github.com/sangkuriang/sa
 
 ## 📈 Roadmap
 
-### 🎯 Q1 2024 - Foundation
+### 🎯 Q4 2025 - Foundation
 - [x] Desain arsitektur sistem
 - [x] MVP backend development
-- [x] Basic authentication system
-- [x] Payment gateway integration
-- [ ] Mobile app completion
-- [ ] Basic audit engine
+- [x] Basic authentication system (JWT implementation)
+- [x] Payment gateway integration (OVO, GoPay, Dana)
+- [x] Mobile app completion (Flutter Android/iOS)
+- [x] Basic audit engine (crypto analysis)
 
-### 🚀 Q2 2024 - Core Features
-- [ ] Full crowdfunding platform
-- [ ] Advanced audit engine
-- [ ] Community governance system
-- [ ] Reputation system
-- [ ] Analytics dashboard
+### 🚀 Q1 2026 - Core Features
+- [x] Full crowdfunding platform
+- [x] Advanced audit engine (quantum resistance, NIST compliance)
+- [x] Community governance system (decentralized governance)
+- [x] Reputation system (developer & project reputation)
+- [x] Analytics dashboard (monitoring & metrics)
 
-### 🔮 Q3 2024 - Enhancement
-- [ ] AI-powered fraud detection
+### 🔮 Q2 2026 - Enhancement
+- [x] AI-powered fraud detection (smart contract audit)
 - [ ] Multi-language support
-- [ ] Advanced analytics
+- [x] Advanced analytics (performance monitoring)
 - [ ] University partnerships
 - [ ] Community events
 
-### 🌟 Q4 2024 - Scale & Partnership
+### 🌟 Q3 2026 - Scale & Partnership
 - [ ] ASEAN expansion
-- [ ] Advanced DeFi integration
-- [ ] Enterprise solutions
+- [x] Advanced DeFi integration (DAO governance, smart contracts)
+- [x] Enterprise solutions (compliance systems)
 - [ ] Government partnerships
 - [ ] Global recognition
 
@@ -307,10 +307,10 @@ Lihat [ROADMAP.md](ROADMAP.md) untuk detail roadmap.
 ## 📞 Kontak
 
 ### 📧 Email
-- **General**: hello@sangkuriang.id
-- **Support**: support@sangkuriang.id
-- **Partnership**: partnership@sangkuriang.id
-- **Security**: security@sangkuriang.id
+- **General**: hello@sangkuriang.xyz
+- **Support**: support@sangkuriang.xyz
+- **Partnership**: partnership@sangkuriang.xyz
+- **Security**: security@sangkuriang.xyz
 
 ### 💬 Social Media
 - [Discord](https://discord.gg/sangkuriang)
