@@ -262,7 +262,7 @@ Kami menyambut kontribusi dari komunitas! Silakan lihat [CONTRIBUTING.md](CONTRI
 5. **Open** Pull Request
 
 ### 🏷️ Good First Issues
-Lihat [issues dengan label "good first issue"](https://github.com/sangkuriang/sangkuriang/labels/good%20first%20issue) untuk memulai kontribusi.
+Lihat [issues dengan label "good first issue"](https://github.com/Rafael2022-prog/sangkuriang/labels/good%20first%20issue) untuk memulai kontribusi.
 
 ## 📈 Roadmap
 
@@ -299,10 +299,10 @@ Lihat [ROADMAP.md](ROADMAP.md) untuk detail roadmap.
 
 ## 📊 Status Proyek
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sangkuriang/sangkuriang)
-![GitHub issues](https://img.shields.io/github/issues/sangkuriang/sangkuriang)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sangkuriang/sangkuriang)
-![GitHub contributors](https://img.shields.io/github/contributors/sangkuriang/sangkuriang)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Rafael2022-prog/sangkuriang)
+![GitHub issues](https://img.shields.io/github/issues/Rafael2022-prog/sangkuriang)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Rafael2022-prog/sangkuriang)
+![GitHub contributors](https://img.shields.io/github/contributors/Rafael2022-prog/sangkuriang)
 
 ## 📞 Kontak
 
@@ -385,7 +385,7 @@ SOFTWARE.
 
 ### ⭐ Jika Anda menyukai proyek ini, berikan bintang di GitHub! ⭐
 
-**[⭐ Star this repo](https://github.com/sangkuriang/sangkuriang)** | **[🚀 Try the demo](https://demo.sangkuriang.id)** | **[📖 Read the docs](https://docs.sangkuriang.id)**
+**[⭐ Star this repo](https://github.com/Rafael2022-prog/sangkuriang)** | **[🚀 Try the demo](https://demo.sangkuriang.id)** | **[📖 Read the docs](https://docs.sangkuriang.id)**
 
 </div>
 
