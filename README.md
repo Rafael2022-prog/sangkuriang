@@ -385,7 +385,7 @@ SOFTWARE.
 
 ### ⭐ Jika Anda menyukai proyek ini, berikan bintang di GitHub! ⭐
 
-**[⭐ Star this repo](https://github.com/Rafael2022-prog/sangkuriang)** | **[🚀 Try the demo](https://demo.sangkuriang.id)** | **[📖 Read the docs](https://docs.sangkuriang.id)**
+**[⭐ Star this repo](https://github.com/Rafael2022-prog/sangkuriang)** | **[🚀 Try the demo](https://sangkuriang.xyz/demo)** | **[📖 Read the docs](https://docssangkuriang.xyz/docs)**
 
 </div>
 
