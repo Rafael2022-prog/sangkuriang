@@ -314,21 +314,21 @@ Lihat [ROADMAP.md](ROADMAP.md) untuk detail roadmap.
 
 ### 💬 Social Media
 - [Discord](https://discord.gg/sangkuriang)
-- [Telegram](https://t.me/sangkuriang_id)
-- [Twitter](https://twitter.com/sangkuriang_id)
+- [Telegram](https://t.me/sangkuriang_xyz)
+- [Twitter](https://twitter.com/sangkuriang_xyz)
 - [LinkedIn](https://linkedin.com/company/sangkuriang)
-- [Instagram](https://instagram.com/sangkuriang.id)
+- [Instagram](https://instagram.com/sangkuriang.xyz)
 
 ### 🌐 Website
-- **Main**: https://sangkuriang.id
-- **Docs**: https://docs.sangkuriang.id
-- **API**: https://api.sangkuriang.id
-- **Status**: https://status.sangkuriang.id
+- **Main**: https://sangkuriang.xyz
+- **Docs**: https://sangkuriang.xyz/docs
+- **API**: https://sangkuriang.xyz/api
+- **Status**: https://sangkuriang.id/status
 
 ## 🔒 Security
 
 ### 🐛 Reporting Security Issues
-Jika Anda menemukan kerentanan keamanan, silakan email ke [security@sangkuriang.id](mailto:security@sangkuriang.id) dengan:
+Jika Anda menemukan kerentanan keamanan, silakan email ke [security@sangkuriang.id](mailto:security@sangkuriang.xyz) dengan:
 - Deskripsi detail masalah
 - Langkah reproduksi
 - Informasi kontak Anda
