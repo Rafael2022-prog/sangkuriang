@@ -299,10 +299,10 @@ Lihat [ROADMAP.md](ROADMAP.md) untuk detail roadmap.
 
 ## 📊 Status Proyek
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Rafael2022-prog/sangkuriang)
-![GitHub issues](https://img.shields.io/github/issues/Rafael2022-prog/sangkuriang)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Rafael2022-prog/sangkuriang)
-![GitHub contributors](https://img.shields.io/github/contributors/Rafael2022-prog/sangkuriang)
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/Rafael2022-prog/sangkuriang?style=flat-square)](https://github.com/Rafael2022-prog/sangkuriang/commits/main)
+[![Issues](https://img.shields.io/github/issues/Rafael2022-prog/sangkuriang?style=flat-square)](https://github.com/Rafael2022-prog/sangkuriang/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Rafael2022-prog/sangkuriang?style=flat-square)](https://github.com/Rafael2022-prog/sangkuriang/pulls)
+[![Contributors](https://img.shields.io/github/contributors/Rafael2022-prog/sangkuriang?style=flat-square)](https://github.com/Rafael2022-prog/sangkuriang/graphs/contributors)
 
 ## 📞 Kontak
 
