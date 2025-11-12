@@ -1,0 +1,68 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#0f172a" stroke="#dc2626" stroke-width="2"/>
+  
+  <!-- Mountain Silhouette (representing Tangkuban Perahu) -->
+  <path d="M40 120 L100 60 L160 120 Z" fill="#dc2626" opacity="0.8"/>
+  
+  <!-- Vortex/Spiral Element (representing the infinite concept) -->
+  <defs>
+    <linearGradient id="spiralGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7f1d1d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Spiral -->
+  <path d="M100 100 
+           Q110 90 120 100 
+           Q120 110 110 120 
+           Q100 120 90 110 
+           Q90 100 95 95 
+           Q100 90 105 95 
+           Q110 100 105 105 
+           Q100 110 95 105 
+           Q90 100 100 100" 
+        fill="none" 
+        stroke="url(#spiralGradient)" 
+        stroke-width="3" 
+        opacity="0.9"/>
+  
+  <!-- Kris (Traditional Dagger) -->
+  <g transform="translate(100, 100) rotate(45)">
+    <path d="M0 -30 L3 -25 L3 -10 L6 -8 L6 -5 L3 -3 L3 15 L-3 15 L-3 -3 L-6 -5 L-6 -8 L-3 -10 L-3 -25 L0 -30 Z" 
+          fill="#fbbf24" opacity="0.8"/>
+  </g>
+  
+  <!-- Text SANGKURIANG -->
+  <text x="100" y="170" 
+        font-family="Arial, sans-serif" 
+        font-size="16" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#ffffff">
+    SANGKURIANG
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="185" 
+        font-family="Arial, sans-serif" 
+        font-size="8" 
+        text-anchor="middle" 
+        fill="#dc2626" 
+        opacity="0.8">
+    Kriptografi Nusantara
+  </text>
+  
+  <!-- Decorative Batik Pattern Elements -->
+  <circle cx="30" cy="30" r="3" fill="#dc2626" opacity="0.3"/>
+  <circle cx="170" cy="30" r="3" fill="#dc2626" opacity="0.3"/>
+  <circle cx="30" cy="170" r="3" fill="#dc2626" opacity="0.3"/>
+  <circle cx="170" cy="170" r="3" fill="#dc2626" opacity="0.3"/>
+  
+  <!-- Additional decorative elements -->
+  <path d="M50 50 L55 55 M55 50 L50 55" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+  <path d="M150 50 L155 55 M155 50 L150 55" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+  <path d="M50 150 L55 155 M55 150 L50 155" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+  <path d="M150 150 L155 155 M155 150 L150 155" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+</svg>

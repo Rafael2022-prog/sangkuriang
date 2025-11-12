@@ -1,0 +1,324 @@
+# SANGKURIANG - Comprehensive .gitignore
+# File ini berisi daftar folder dan file yang tidak perlu di-track oleh Git
+
+# =============================================================================
+# ENVIRONMENT & CONFIGURATION FILES
+# =============================================================================
+# Environment files - mengandung data sensitif
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Configuration files yang mengandung secrets
+config/secrets.json
+config/database.yml
+config/credentials.yml.enc
+
+# =============================================================================
+# DEPENDENCIES & BUILD ARTIFACTS
+# =============================================================================
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# =============================================================================
+# IDE & EDITOR FILES
+# =============================================================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+#*#
+
+# =============================================================================
+# OPERATING SYSTEM FILES
+# =============================================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.nautilus
+.directory
+.Trash-*
+
+# =============================================================================
+# DATABASE & CACHE FILES
+# =============================================================================
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+
+# Cache directories
+.cache/
+.pytest_cache/
+.benchmarks/
+*.cache
+
+# Session files
+flask_session/
+sessions/
+
+# =============================================================================
+# LOG FILES & TEMPORARY FILES
+# =============================================================================
+# Log files
+*.log
+logs/
+log/
+test_tax_reports/
+debug_test_reports/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*~
+
+# =============================================================================
+# SECURITY & COMPLIANCE DATA
+# =============================================================================
+# KYC Data - Data sensitif pengguna
+kyc_data/
+backend/kyc_data/
+
+# PDP Compliance Data - Data privasi pengguna
+pdp_compliance_data/
+backend/pdp_compliance_data/
+pdp_compliance_data/audit_log.json
+
+# Tax Reports - Data pajak yang sensitif
+test_tax_reports/
+backend/test_tax_reports/
+debug_test_reports/
+
+# Audit logs yang mengandung data sensitif
+audit_logs/
+security_logs/
+*.audit.log
+
+# =============================================================================
+# UPLOADS & USER GENERATED CONTENT
+# =============================================================================
+# User uploads
+uploads/
+backend/uploads/
+backend/sangkuriang-api/uploads/
+
+# Generated images/media
+media/
+static/media/
+
+# Temporary upload directories
+.tmp_uploads/
+temp_uploads/
+
+# =============================================================================
+# TESTING & COVERAGE
+# =============================================================================
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+.hypothesis/
+
+# Test artifacts
+test_results/
+test_artifacts/
+*.test.db
+
+# =============================================================================
+# DEPLOYMENT & DOCKER
+# =============================================================================
+# Docker
+.dockerignore
+
+# Deployment artifacts
+deployment/artifacts/
+deployment/secrets/
+
+# Kubernetes secrets
+*.secret.yaml
+*.secret.yml
+
+# =============================================================================
+# CRYPTOGRAPHIC & SECURITY FILES
+# =============================================================================
+# Private keys dan sertifikat
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# GPG keys
+*.gpg
+*.pgp
+
+# SSH keys
+.ssh/
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+
+# =============================================================================
+# PROJECT SPECIFIC - SANGKURIANG
+# =============================================================================
+# Crypto audit temporary files
+crypto-audit/temp/
+crypto-audit/.benchmarks/
+
+# DAO temporary files
+dao/temp/
+
+# Performance testing results
+performance/test_cache/
+performance/.benchmarks/
+
+# Security testing results
+security/temp/
+security/.benchmarks/
+
+# Compliance temporary data
+compliance/temp/
+compliance/.benchmarks/
+
+# =============================================================================
+# MISCELLANEOUS
+# =============================================================================
+# Package lock files (opsional, bisa di-uncomment jika tidak ingin track)
+# package-lock.json
+# yarn.lock
+# Pipfile.lock
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Node version
+.nvmrc
+
+# Editor config yang personal
+.editorconfig.local
+
+# Personal notes dan draft
+notes/
+drafts/
+*.draft
+*.notes
+
+# =============================================================================
+# EXCEPTIONS - FILE YANG HARUS DI-TRACK
+# =============================================================================
+# Jangan ignore file-file penting berikut:
+# !.gitignore
+# !README.md
+# !LICENSE
+# !package.json
+# !requirements.txt
+# !docker-compose.yml
+# !.env.example (contoh environment file)
+
+# Aset brand yang sudah distandarkan (jangan diignore)
+# !backend/static/images/sangkuriang-logo*
+# !mobile/assets/images/sangkuriang-logo*
+# !frontend/sangkuriang-landing/public/sangkuriang-logo*
