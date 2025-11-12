@@ -1,0 +1,3 @@
+[submodule "frontend/sangkuriang-landing"]
+	path = frontend/sangkuriang-landing
+	url = https://github.com/Rafael2022-prog/sangkuriang-landing.git
