@@ -348,7 +348,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file [LICENSE](L
 ```
 MIT License
 
-Copyright (c) 2024 SANGKURIANG
+Copyright (c) 2025 SANGKURIANG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
